@@ -1,6 +1,6 @@
 # 🐍 PythonBootcamp2025 – *import greatness* 🤓
 
-Welcome to my Python Bootcamp (powered by a course on Udemy and caffeine)!  
+Welcome to my Python Bootcamp (powered by a course I won’t disclose and caffeine)!  
 This is where I level up my Python skills, one bug at a time.
 
 > `"import greatness"`  
