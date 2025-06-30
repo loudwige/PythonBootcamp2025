@@ -48,13 +48,8 @@ This is where I level up my Python skills, one bug at a time.
 
 ## 🛠️ Projects
 
-[//]: # (- [x] `guess_the_number.py` – My proudest random number generator yet)
-
-[//]: # (- [ ] `todo_cli.py` – Because I need a list to keep track of my to-do lists)
-
-[//]: # (- [ ] `api_fun.py` – Making friends with the internet)
-
-[//]: # (- [ ] `final_project.py` – TBD, but it’s going to be epic)
+- [x] `guess_the_number.py` – Done!
+- [ ] `todo_cli.py` – In progress
 
 ---
 
