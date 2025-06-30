@@ -22,7 +22,6 @@ This is where I level up my Python skills, one bug at a time.
 ---
 
 ## 🧠 Curriculum (a.k.a. The Game Plan)
-## 🧠 Curriculum
 
 | Week | Topic | Highlights |
 |-----|-------|------------|
