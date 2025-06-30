@@ -71,7 +71,7 @@ This is where I level up my Python skills, one bug at a time.
 
 ## 📸 Memorable Moments
 
-> _"I don’t always write Python, but when I do, it runs on the third try."_ – Me
+> _"I’m learning Python and handling exceptions, while AI handles world domination. Guess who’s winning at debugging? 🐍🤖"_ – Me
 
 ---
 
